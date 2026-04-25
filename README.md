@@ -1,16 +1,39 @@
-## Hi there 👋
+## Hi there 👋, I'm Nimra Nazir
 
-<!--
-**nimra13045/nimra13045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👩‍💻 Nimra Nazir - Software Developer Portfolio
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Engineering student passionate about Web Development, C++ OOP, and building real-world projects using JavaScript and Python.
+
+---
+
+## 🚀 Featured Projects
+- 🎨 Web Development Projects  
+- ⚙️ JavaScript Applications  
+- 💻 C++ OOP Systems  
+- 📱 Android UI Projects  
+- 🤖 AI Chatbot & Python Projects  
+
+---
+
+## 📌 Highlighted Work
+✔ Responsive UI Website  
+✔ Amazon & Movie UI Clones  
+✔ Bank Management System  
+✔ Chat Application  
+✔ Expense Tracker System  
+
+---
+
+## 🌐 GitHub Portfolio
+🔗 All Projects:  
+ GitHub: https://github.com/nimra13045
+---
+
+## 🎯 Goal
+To become a Software Engineer and AI Developer by building real-world scalable applications.
+
+---
+
+## 🙏 Thanks for visiting my profile 💙
